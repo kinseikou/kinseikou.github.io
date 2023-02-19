@@ -2,10 +2,212 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/jp/authors/example-author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/example-author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/authors/example-author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/authors/example-author/"
+                />
+  </url><url>
+    <loc>/jp/posts/hello-world/</loc>
+    <lastmod>2023-02-19T09:06:11+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/hello-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/posts/hello-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/posts/hello-world/"
+                />
+  </url><url>
+    <loc>/jp/</loc>
+    <lastmod>2023-02-19T09:06:11+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/"
+                />
+  </url><url>
+    <loc>/jp/posts/</loc>
+    <lastmod>2023-02-19T09:06:11+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/posts/"
+                />
+  </url><url>
+    <loc>/jp/docs/example-doc/chapter-1/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/example-doc/chapter-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/docs/example-doc/chapter-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/docs/example-doc/chapter-1/"
+                />
+  </url><url>
+    <loc>/jp/docs/example-doc/nested-chapter/chapter-1/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/example-doc/nested-chapter/chapter-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/docs/example-doc/nested-chapter/chapter-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/docs/example-doc/nested-chapter/chapter-1/"
+                />
+  </url><url>
+    <loc>/jp/docs/example-doc/chapter-2/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/example-doc/chapter-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/docs/example-doc/chapter-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/docs/example-doc/chapter-2/"
+                />
+  </url><url>
+    <loc>/jp/docs/example-doc/nested-chapter/chapter-2/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/example-doc/nested-chapter/chapter-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/docs/example-doc/nested-chapter/chapter-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/docs/example-doc/nested-chapter/chapter-2/"
+                />
+  </url><url>
+    <loc>/jp/docs/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/docs/"
+                />
+  </url><url>
+    <loc>/jp/docs/example-doc/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/example-doc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/docs/example-doc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/docs/example-doc/"
+                />
+  </url><url>
+    <loc>/jp/docs/example-doc/nested-chapter/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/example-doc/nested-chapter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/docs/example-doc/nested-chapter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/docs/example-doc/nested-chapter/"
+                />
+  </url><url>
     <loc>/jp/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="/authors/"
                 />
     <xhtml:link
@@ -18,6 +220,11 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="/categories/"
                 />
     <xhtml:link
@@ -26,10 +233,32 @@
                 href="/jp/categories/"
                 />
   </url><url>
+    <loc>/jp/authors/hugo-authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/hugo-authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/authors/hugo-authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/authors/hugo-authors/"
+                />
+  </url><url>
     <loc>/jp/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="/series/"
                 />
     <xhtml:link
@@ -38,22 +267,15 @@
                 href="/jp/series/"
                 />
   </url><url>
-    <loc>/jp/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/"
-                />
-  </url><url>
     <loc>/jp/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="/tags/"
                 />
     <xhtml:link

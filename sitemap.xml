@@ -11,6 +11,15 @@
   <sitemap>
     <loc>/jp/sitemap.xml</loc>
     
+      <lastmod>2023-02-19T09:06:11+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>/zh/sitemap.xml</loc>
+    
+      <lastmod>2023-02-19T09:06:11+08:00</lastmod>
+    
   </sitemap>
   
 </sitemapindex>

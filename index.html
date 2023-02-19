@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html
-  lang="en"
+  lang="zh"
   dir="ltr"
   
 ><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<title>Smile Guide</title>
+<title>金圣皓的个人网站</title>
 
 <meta name="generator" content="Hugo Eureka 0.9.3" />
 <link rel="stylesheet" href="/css/eureka.min.9cec6350e37e534b0338fa9a085bf06855de3b0f2dcf857e792e5e97b07ea905d4d5513db554cbc26a9c3da622bae92d.css">
@@ -79,7 +79,7 @@
 
 
 
-<meta property="og:title" content="Smile Guide" />
+<meta property="og:title" content="金圣皓的个人网站" />
 <meta property="og:type" content="website" />
 
 
@@ -98,16 +98,18 @@
 
 
 
-<meta property="og:locale" content="en" />
+<meta property="og:locale" content="zh" />
 
 
+
+<meta property="og:locale:alternate" content="en" />
 
 <meta property="og:locale:alternate" content="jp" />
 
 
 
 
-<meta property="og:site_name" content="Smile Guide" />
+<meta property="og:site_name" content="金圣皓的个人网站" />
 
 
 
@@ -121,7 +123,7 @@
 <meta property="article:section" content="" />
 
 
-<link rel="alternate" type="application/rss+xml" href="/index.xml" title="Smile Guide" />
+<link rel="alternate" type="application/rss+xml" href="/index.xml" title="金圣皓的个人网站" />
 
 
   <body class="flex min-h-screen flex-col">
@@ -135,7 +137,7 @@
     }
 </script>
 <nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
-    <a href="/" class="me-6 text-primary-text text-xl font-bold">Smile Guide</a>
+    <a href="/" class="me-6 text-primary-text text-xl font-bold">金圣皓的个人网站</a>
     <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
         <i class="fas fa-bars"></i>
     </button>
@@ -157,21 +159,22 @@
                 </div>
                 <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
                     id='lightDarkOptions'>
-                    <span class="px-4 py-1 hover:text-eureka" name="Light">Light</span>
-                    <span class="px-4 py-1 hover:text-eureka" name="Dark">Dark</span>
-                    <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Light">浅色</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Dark">深色</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Auto">自动</span>
                 </div>
             </div>
             <div class="relative pt-4 ps-4 md:pt-0">
                 <div class="cursor-pointer hover:text-eureka" id="languageMode">
                     <i class="fas fa-globe"></i>
-                    <span class="ps-1">English</span>
+                    <span class="ps-1">简体中文</span>
                 </div>
                 <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
                 </div>
                 <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
                     id='languageOptions'>
-                    <a class="px-4 py-1 hover:text-eureka" href="/">English</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="/">简体中文</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="/en/">English</a>
                     <a class="px-4 py-1 hover:text-eureka" href="/jp/">日本語</a>
                 </div>
             </div>
@@ -449,7 +452,7 @@
   </div>
   <div class="me-6 my-2">
     <i class="fas fa-clock me-1"></i>
-    <span>1 min read</span>
+    <span>1分钟阅读时长</span>
   </div>
 
   
@@ -471,7 +474,7 @@
 
   <div class="pt-2 hover:text-eureka">
     
-  <a href="/posts/" class="font-semibold">Read More</a>
+  <a href="/posts/" class="font-semibold">阅读更多</a>
   <i class='fas fa-caret-right ms-1'></i>
 
   </div>
@@ -809,9 +812,69 @@
     
       
       
-<div style="text-align:center">
-  <p>谢谢你的参观！</p>
-</div>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>使用 CSS 制作打字机</title>
+        <style>
+            html {
+                margin: 0;
+            }
+ 
+            body {
+
+            }
+ 
+            #typing {
+ 
+                width: 0ch;
+                float: left;
+                font-size: 45px;
+                margin-top: 20%;
+                margin-left: 20%;
+                overflow: hidden;
+                white-space: nowrap;
+                animation: typing 5s steps(17) 1s infinite alternate;
+            }
+ 
+
+
+ 
+            #crow {
+                color: red;
+                font-size: 40px;
+                float: left;
+                margin-top: 20%;
+                animation: crow 0.5s linear 0s infinite;
+            }
+ 
+            @keyframes typing {
+                from {
+                    width: 0ch;
+                }
+ 
+                to {
+                    width: 17ch;
+                }
+            }
+ 
+            @keyframes crow {
+                from {
+                    opacity: 0;
+                }
+ 
+                to {
+                    opacity: 1;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div id="typing">Thanks for your visit！</div>
+        <div id="crow">|</div>
+    </body>
       
     
   

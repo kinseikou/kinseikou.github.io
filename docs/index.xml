@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Smile Guide</title>
+    <title>Docs on 金圣皓的个人网站</title>
     <link>/docs/</link>
-    <description>Recent content in Docs on Smile Guide</description>
+    <description>Recent content in Docs on 金圣皓的个人网站</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh</language>
     <copyright>&amp;copy; 2023 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;Jin Shenghao&lt;/a&gt;
 </copyright>
     <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />

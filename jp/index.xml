@@ -1,12 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Smile Guide</title>
+    <title>金聖皓の個人向けサイト</title>
     <link>/jp/</link>
-    <description>Recent content on Smile Guide</description>
+    <description>Recent content on 金聖皓の個人向けサイト</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <copyright>&amp;copy; 2023 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;Jin Shenghao&lt;/a&gt;
-</copyright><atom:link href="/jp/index.xml" rel="self" type="application/rss+xml" />
+</copyright>
+    <lastBuildDate>Sun, 19 Feb 2023 09:06:11 +0800</lastBuildDate><atom:link href="/jp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>/jp/posts/hello-world/</link>
+      <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
+      
+      <guid>/jp/posts/hello-world/</guid>
+      <description>これは私の最初のブログです。 よろしくお願いいたします。 これは私が個人サイトで発表した最初のブログです。 私は主にブログで私の思考を共有したり、技術を交流</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>/jp/docs/example-doc/chapter-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/jp/docs/example-doc/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of example doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>/jp/docs/example-doc/nested-chapter/chapter-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/jp/docs/example-doc/nested-chapter/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/jp/docs/example-doc/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/jp/docs/example-doc/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/jp/docs/example-doc/nested-chapter/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/jp/docs/example-doc/nested-chapter/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
