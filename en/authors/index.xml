@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Jin Shenghao&#39;s Website</title>
+    <title>Jin Shenghao on Jin Shenghao&#39;s Website</title>
     <link>/en/authors/</link>
-    <description>Recent content in Authors on Jin Shenghao&#39;s Website</description>
+    <description>Recent content in Jin Shenghao on Jin Shenghao&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2023 &lt;a href=&#34;https://www.smileguide.github.io/&#34;&gt;Jin Shenghao&lt;/a&gt;
 </copyright><atom:link href="/en/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>金圣皓</title>
-      <link>/en/authors/example-author/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/authors/example-author/</guid>
-      <description>Latest Resources Official preview collection of the film Suzume（すずめの戸締まり） Self Introduction I wish we youth, To born in enthusiasm of spring And dedicate your life for it, With a young heart all the same. Go forward without looking back, Turn away from the Darkness and face the light, To advance civilization for the world And create Happiness for mankind. Create</description>
-    </item>
-    
-    <item>
-      <title>Hugo Authors</title>
-      <link>/en/authors/hugo-authors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/en/authors/hugo-authors/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

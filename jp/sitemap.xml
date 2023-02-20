@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/jp/authors/example-author/</loc>
+    <loc>/jp/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/example-author/"
+                href="/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/authors/example-author/"
+                href="/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/authors/example-author/"
+                href="/jp/authors/"
                 />
   </url><url>
     <loc>/jp/posts/hello-world/</loc>
@@ -73,23 +73,6 @@
                 href="/jp/"
                 />
   </url><url>
-    <loc>/jp/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/authors/"
-                />
-  </url><url>
     <loc>/jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -105,40 +88,6 @@
                 rel="alternate"
                 hreflang="jp"
                 href="/jp/categories/"
-                />
-  </url><url>
-    <loc>/jp/docs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/docs/"
-                />
-  </url><url>
-    <loc>/jp/authors/hugo-authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/hugo-authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/authors/hugo-authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/authors/hugo-authors/"
                 />
   </url><url>
     <loc>/jp/series/</loc>
@@ -173,6 +122,23 @@
                 rel="alternate"
                 hreflang="jp"
                 href="/jp/tags/"
+                />
+  </url><url>
+    <loc>/jp/docs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/docs/"
                 />
   </url>
 </urlset>

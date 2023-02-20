@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/authors/example-author/</loc>
+    <loc>/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/example-author/"
+                href="/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/authors/example-author/"
+                href="/jp/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/authors/example-author/"
+                href="/authors/"
                 />
   </url><url>
     <loc>/posts/hello-world/</loc>
@@ -73,23 +73,6 @@
                 href="/posts/"
                 />
   </url><url>
-    <loc>/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/authors/"
-                />
-  </url><url>
     <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -122,23 +105,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/docs/"
-                />
-  </url><url>
-    <loc>/authors/hugo-authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/hugo-authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/authors/hugo-authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/authors/hugo-authors/"
                 />
   </url><url>
     <loc>/series/</loc>
