@@ -844,7 +844,7 @@
                     width: 17ch;
                 }
             }
- 
+
             @keyframes crow {
                 from {
                     opacity: 0;
@@ -859,12 +859,21 @@
         <div id="crow">|</div>
 
 <script type="text/javascript">
-  if (window.outerWidth <= 945) {
-        //移动端   
-     document.getElementById("blank").disabled="false"
-    } else {
+  // if (window.outerWidth <= 945) {
+  //       //移动端   
+  //    document.getElementById("blank").disabled="false"
+  //   } else {
   
-    }
+  //   }
+
+
+    if(navigator.platform != 'Android'||navigator.platform != 'iPhone'||navigator.platform != 'BlackBerry')
+{
+    // var link = document.createElement('blank');
+    // document.getElementsByTagName('head')[0].appendChild(link);
+    document.getElementById("typing").style.animationPlayState="paused"
+        document.getElementById("crow").style.animationPlayState="paused"
+}
 </script>
       
     
