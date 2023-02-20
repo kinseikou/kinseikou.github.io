@@ -23,13 +23,13 @@
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/hello-world/"
+                hreflang="zh"
+                href="/posts/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/posts/hello-world/"
+                hreflang="en"
+                href="/en/posts/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
