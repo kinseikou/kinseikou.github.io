@@ -23,13 +23,13 @@
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="jp"
-                href="/jp/posts/hello-world/"
+                hreflang="zh"
+                href="/posts/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/posts/hello-world/"
+                hreflang="jp"
+                href="/jp/posts/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -75,75 +75,15 @@
   </url><url>
     <loc>/en/docs/example-doc/chapter-1/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/docs/example-doc/chapter-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/docs/example-doc/chapter-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/example-doc/chapter-1/"
-                />
   </url><url>
     <loc>/en/docs/example-doc/nested-chapter/chapter-1/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/docs/example-doc/nested-chapter/chapter-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/docs/example-doc/nested-chapter/chapter-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/example-doc/nested-chapter/chapter-1/"
-                />
   </url><url>
     <loc>/en/docs/example-doc/chapter-2/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/docs/example-doc/chapter-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/docs/example-doc/chapter-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/example-doc/chapter-2/"
-                />
   </url><url>
     <loc>/en/docs/example-doc/nested-chapter/chapter-2/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/docs/example-doc/nested-chapter/chapter-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/docs/example-doc/nested-chapter/chapter-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/example-doc/nested-chapter/chapter-2/"
-                />
   </url><url>
     <loc>/en/docs/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
@@ -165,39 +105,9 @@
   </url><url>
     <loc>/en/docs/example-doc/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/docs/example-doc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/docs/example-doc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/example-doc/"
-                />
   </url><url>
     <loc>/en/docs/example-doc/nested-chapter/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/docs/example-doc/nested-chapter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/docs/example-doc/nested-chapter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/example-doc/nested-chapter/"
-                />
   </url><url>
     <loc>/en/authors/</loc>
     <xhtml:link

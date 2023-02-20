@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>随笔 on 金聖皓の個人向けサイト</title>
+    <title>ブログ on 金聖皓の個人向けサイト</title>
     <link>/jp/posts/</link>
-    <description>Recent content in 随笔 on 金聖皓の個人向けサイト</description>
+    <description>Recent content in ブログ on 金聖皓の個人向けサイト</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <copyright>&amp;copy; 2023 &lt;a href=&#34;https://www.smileguide.github.io/&#34;&gt;Jin Shenghao&lt;/a&gt;
 </copyright>
     <lastBuildDate>Sun, 19 Feb 2023 09:06:11 +0800</lastBuildDate><atom:link href="/jp/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>Hello World！🎉</title>
       <link>/jp/posts/hello-world/</link>
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
