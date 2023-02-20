@@ -867,13 +867,27 @@
   //   }
 
 
-    if(navigator.platform != 'Android'||navigator.platform != 'iPhone'||navigator.platform != 'BlackBerry')
+    if(navigator.platform == 'Android')
 {
     // var link = document.createElement('blank');
     // document.getElementsByTagName('head')[0].appendChild(link);
     document.getElementById("typing").style.animationPlayState="paused"
         document.getElementById("crow").style.animationPlayState="paused"
-}
+} 
+    if(navigator.platform == 'iPhone')
+{
+    // var link = document.createElement('blank');
+    // document.getElementsByTagName('head')[0].appendChild(link);
+    document.getElementById("typing").style.animationPlayState="paused"
+        document.getElementById("crow").style.animationPlayState="paused"
+} 
+    if(navigator.platform == 'BlackBerry')
+{
+    // var link = document.createElement('blank');
+    // document.getElementsByTagName('head')[0].appendChild(link);
+    document.getElementById("typing").style.animationPlayState="paused"
+        document.getElementById("crow").style.animationPlayState="paused"
+} 
 </script>
       
     
