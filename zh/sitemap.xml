@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/docs/unlock_music/</loc>
+    <lastmod>2023-02-20T17:35:02+08:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
+    <lastmod>2023-02-20T17:35:02+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -17,6 +21,45 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/authors/"
+                />
+  </url><url>
+    <loc>/docs/</loc>
+    <lastmod>2023-02-20T17:35:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/docs/"
+                />
+  </url><url>
+    <loc>/authors/%E9%87%91%E5%9C%A3%E7%9A%93/</loc>
+    <lastmod>2023-02-20T17:35:02+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-02-20T17:35:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/"
                 />
   </url><url>
     <loc>/posts/hello-world/</loc>
@@ -37,23 +80,8 @@
                 href="/posts/hello-world/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>/posts/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/</loc>
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/"
-                />
   </url><url>
     <loc>/posts/</loc>
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
@@ -88,23 +116,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/categories/"
-                />
-  </url><url>
-    <loc>/docs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/docs/"
                 />
   </url><url>
     <loc>/series/</loc>

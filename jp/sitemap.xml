@@ -5,13 +5,13 @@
     <loc>/jp/authors/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
+                hreflang="zh"
+                href="/authors/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/authors/"
+                hreflang="en"
+                href="/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -59,13 +59,13 @@
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/"
+                hreflang="zh"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/"
+                hreflang="en"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -127,13 +127,13 @@
     <loc>/jp/docs/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/docs/"
+                hreflang="zh"
+                href="/docs/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/docs/"
+                hreflang="en"
+                href="/en/docs/"
                 />
     <xhtml:link
                 rel="alternate"
