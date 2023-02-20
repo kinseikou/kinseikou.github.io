@@ -27,14 +27,5 @@
       <description>我的第一个博客。 这是我在个人网站上发表的第一篇博客。 这个网站是怎么搭建的？ 我的个人网站是用GitHub的个人静态页面托管服务和静态页面构建工具“Hug</description>
     </item>
     
-    <item>
-      <title>Hello World🎉</title>
-      <link>/posts/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/</link>
-      <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
-      
-      <guid>/posts/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/</guid>
-      <description>我的第一个博客。 这是我在个人网站上发表的第一篇博客。 这个网站是怎么搭建的？ 我的个人网站是用GitHub的个人静态页面托管服务和静态页面构建工具“Hug</description>
-    </item>
-    
   </channel>
 </rss>
