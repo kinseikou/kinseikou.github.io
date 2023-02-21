@@ -75,7 +75,7 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_180x180_fill_box_center_3.png">
 
 <meta name="description"
-  content="这是一个用于解锁主流数字音乐媒体的下载音乐的工具。特别支持QQ音乐“臻品母带”音质的音乐解锁。 入口 点击进入解锁工具 使用教程（以QQ音乐为例） 流程 graph TD A">
+  content="这是一个用于解锁主流数字音乐媒体的下载音乐的工具。特别支持QQ音乐“臻品母带”音质的音乐解锁。 入口 点击进入解锁工具 该工具使用特殊技术，可以离线使用。在">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -104,7 +104,7 @@
     },
     "headline": "音乐解锁工具 | 金圣皓的个人网站","datePublished": "2023-02-20T17:35:02+08:00",
     "dateModified": "2023-02-20T17:35:02+08:00",
-    "wordCount":  367 ,
+    "wordCount":  436 ,
     "author": {
         "@type": "Person",
         "name": ["金圣皓"]
@@ -117,7 +117,7 @@
             "url": "https://avatars.githubusercontent.com/u/73018805?v=4"
         }
         },
-    "description": "这是一个用于解锁主流数字音乐媒体的下载音乐的工具。特别支持QQ音乐“臻品母带”音质的音乐解锁。 入口 点击进入解锁工具 使用教程（以QQ音乐为例） 流程 graph TD A"
+    "description": "这是一个用于解锁主流数字音乐媒体的下载音乐的工具。特别支持QQ音乐“臻品母带”音质的音乐解锁。 入口 点击进入解锁工具 该工具使用特殊技术，可以离线使用。在"
 }
 </script><meta property="og:title" content="音乐解锁工具 | 金圣皓的个人网站" />
 <meta property="og:type" content="article" />
@@ -131,7 +131,7 @@
 
 
 
-<meta property="og:description" content="这是一个用于解锁主流数字音乐媒体的下载音乐的工具。特别支持QQ音乐“臻品母带”音质的音乐解锁。 入口 点击进入解锁工具 使用教程（以QQ音乐为例） 流程 graph TD A" />
+<meta property="og:description" content="这是一个用于解锁主流数字音乐媒体的下载音乐的工具。特别支持QQ音乐“臻品母带”音质的音乐解锁。 入口 点击进入解锁工具 该工具使用特殊技术，可以离线使用。在" />
 
 
 
@@ -304,7 +304,35 @@
 
   <p>这是一个用于解锁主流数字音乐媒体的下载音乐的工具。特别支持QQ音乐“臻品母带”音质的音乐解锁。</p>
 <h2 id="入口">入口</h2>
-<p><a href="https://smileguide.github.io/unlockmusic"> 点击进入解锁工具</a></p>
+<style>
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:right;
+	}
+</style>
+<p><a href="https://smileguide.github.io/unlockmusic"> <strong>点击进入解锁工具</strong></a><br/><br/>
+该工具使用特殊技术，可以离线使用。在第一次加载工具成功后，即使你<strong>没有网络连接</strong>，使用工具的网址再次访问，工具<strong>依然可用。</strong><br/></p>
+<h3 id="工具网址br">工具网址：<br/></h3>
+<p><button type="button" id="cpy"><input type="text" value="smileguide.github.io/unlockmusic" style="width: 255px;" readonly></input><div id="cpyd" class="DDot">(点击复制)</div></button></p>
+<script src="https://cdn.staticfile.org/clipboard.js/2.0.4/clipboard.min.js"></script>
+<script>
+new ClipboardJS('#cpy', {
+    text: function(trigger) {
+        return "https://smileguide.github.io/unlockmusic";
+    }
+}).on('success', function(e) {
+	// clearInterval(function);
+   document.getElementById("cpyd").innerHTML="(复制成功！)";
+   document.getElementById("cpyd").style="color:#90EE90;float:right"
+   e.clearSelection();
+   setTimeout(function(){document.getElementById("cpyd").innerHTML="(点击复制)";   document.getElementById("cpyd").style="color:black;float:right";},1000);
+}).on('error', function(e) {
+	// clearInterval(function);
+    document.getElementById("cpyd").innerHTML="(复制失败，点击重试)";
+       document.getElementById("cpyd").style="color:red"
+});
+</script>
 <h2 id="使用教程以qq音乐为例">使用教程（以QQ音乐为例）</h2>
 <h3 id="流程">流程</h3>
 <script src="https://unpkg.com/mermaid@8.8.1/dist/mermaid.min.js" ></script>
@@ -400,7 +428,11 @@ A("使用PC端QQ音乐下载“VIP可下载”的音乐") -->B("打开<音乐存
 >
   <nav id="TableOfContents">
   <ul>
-    <li><a href="#入口">入口</a></li>
+    <li><a href="#入口">入口</a>
+      <ul>
+        <li><a href="#工具网址br">工具网址：<br/></a></li>
+      </ul>
+    </li>
     <li><a href="#使用教程以qq音乐为例">使用教程（以QQ音乐为例）</a>
       <ul>
         <li><a href="#流程">流程</a></li>
