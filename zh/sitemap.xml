@@ -2,181 +2,181 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/suzume/8/</loc>
+    <loc>https://smileguide.github.io/docs/suzume/1/</loc>
     <lastmod>2023-02-21T18:36:06+08:00</lastmod>
   </url><url>
-    <loc>/docs/suzume/1/</loc>
-    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
-  </url><url>
-    <loc>/docs/suzume/2/</loc>
-    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
-  </url><url>
-    <loc>/docs/suzume/6/</loc>
-    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
-  </url><url>
-    <loc>/docs/suzume/5/</loc>
-    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
-  </url><url>
-    <loc>/docs/suzume/7/</loc>
-    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
-  </url><url>
-    <loc>/docs/suzume/4/</loc>
-    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
-  </url><url>
-    <loc>/docs/suzume/3/</loc>
-    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
+    <loc>https://smileguide.github.io/authors/</loc>
     <lastmod>2023-02-20T17:35:02+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="https://smileguide.github.io/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/authors/"
+                href="https://smileguide.github.io/jp/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/authors/"
+                href="https://smileguide.github.io/authors/"
                 />
   </url><url>
-    <loc>/docs/resources/unlock_music/</loc>
+    <loc>https://smileguide.github.io/docs/resources/unlock_music/</loc>
     <lastmod>2023-02-20T17:35:02+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://smileguide.github.io/docs/suzume/2/</loc>
+    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
+  </url><url>
+    <loc>https://smileguide.github.io/docs/suzume/3/</loc>
+    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
+  </url><url>
+    <loc>https://smileguide.github.io/docs/suzume/4/</loc>
+    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
+  </url><url>
+    <loc>https://smileguide.github.io/docs/suzume/5/</loc>
+    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
+  </url><url>
+    <loc>https://smileguide.github.io/docs/suzume/6/</loc>
+    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
+  </url><url>
+    <loc>https://smileguide.github.io/docs/suzume/7/</loc>
+    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
+  </url><url>
+    <loc>https://smileguide.github.io/docs/suzume/8/</loc>
+    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
+  </url><url>
+    <loc>https://smileguide.github.io/</loc>
     <lastmod>2023-02-21T18:36:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://smileguide.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/"
+                href="https://smileguide.github.io/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/"
+                href="https://smileguide.github.io/"
                 />
   </url><url>
-    <loc>/docs/</loc>
+    <loc>https://smileguide.github.io/docs/</loc>
     <lastmod>2023-02-21T18:36:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/docs/"
+                href="https://smileguide.github.io/en/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/docs/"
+                href="https://smileguide.github.io/jp/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/docs/"
+                href="https://smileguide.github.io/docs/"
                 />
   </url><url>
-    <loc>/authors/%E9%87%91%E5%9C%A3%E7%9A%93/</loc>
+    <loc>https://smileguide.github.io/authors/%E9%87%91%E5%9C%A3%E7%9A%93/</loc>
     <lastmod>2023-02-20T17:35:02+08:00</lastmod>
   </url><url>
-    <loc>/posts/hello-world/</loc>
+    <loc>https://smileguide.github.io/posts/hello-world/</loc>
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/posts/hello-world/"
+                href="https://smileguide.github.io/jp/posts/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/hello-world/"
+                href="https://smileguide.github.io/en/posts/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/posts/hello-world/"
+                href="https://smileguide.github.io/posts/hello-world/"
                 />
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://smileguide.github.io/posts/</loc>
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="https://smileguide.github.io/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/posts/"
+                href="https://smileguide.github.io/jp/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/posts/"
+                href="https://smileguide.github.io/posts/"
                 />
   </url><url>
-    <loc>/docs/resources/</loc>
+    <loc>https://smileguide.github.io/docs/resources/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/suzume/</loc>
+    <loc>https://smileguide.github.io/docs/suzume/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://smileguide.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://smileguide.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/categories/"
+                href="https://smileguide.github.io/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/categories/"
+                href="https://smileguide.github.io/categories/"
                 />
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://smileguide.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="https://smileguide.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/series/"
+                href="https://smileguide.github.io/jp/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/series/"
+                href="https://smileguide.github.io/series/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://smileguide.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://smileguide.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/tags/"
+                href="https://smileguide.github.io/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/tags/"
+                href="https://smileguide.github.io/tags/"
                 />
   </url>
 </urlset>

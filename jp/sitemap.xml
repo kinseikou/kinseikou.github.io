@@ -2,143 +2,143 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/jp/authors/</loc>
+    <loc>https://smileguide.github.io/jp/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/authors/"
+                href="https://smileguide.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="https://smileguide.github.io/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/authors/"
+                href="https://smileguide.github.io/jp/authors/"
                 />
   </url><url>
-    <loc>/jp/posts/hello-world/</loc>
+    <loc>https://smileguide.github.io/jp/posts/hello-world/</loc>
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/hello-world/"
+                href="https://smileguide.github.io/en/posts/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/posts/hello-world/"
+                href="https://smileguide.github.io/posts/hello-world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/posts/hello-world/"
+                href="https://smileguide.github.io/jp/posts/hello-world/"
                 />
   </url><url>
-    <loc>/jp/posts/</loc>
+    <loc>https://smileguide.github.io/jp/posts/</loc>
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="https://smileguide.github.io/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/posts/"
+                href="https://smileguide.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/posts/"
+                href="https://smileguide.github.io/jp/posts/"
                 />
   </url><url>
-    <loc>/jp/</loc>
+    <loc>https://smileguide.github.io/jp/</loc>
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/"
+                href="https://smileguide.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://smileguide.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/"
+                href="https://smileguide.github.io/jp/"
                 />
   </url><url>
-    <loc>/jp/categories/</loc>
+    <loc>https://smileguide.github.io/jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://smileguide.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/categories/"
+                href="https://smileguide.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/categories/"
+                href="https://smileguide.github.io/jp/categories/"
                 />
   </url><url>
-    <loc>/jp/series/</loc>
+    <loc>https://smileguide.github.io/jp/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="https://smileguide.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/series/"
+                href="https://smileguide.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/series/"
+                href="https://smileguide.github.io/jp/series/"
                 />
   </url><url>
-    <loc>/jp/tags/</loc>
+    <loc>https://smileguide.github.io/jp/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://smileguide.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/tags/"
+                href="https://smileguide.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/tags/"
+                href="https://smileguide.github.io/jp/tags/"
                 />
   </url><url>
-    <loc>/jp/docs/</loc>
+    <loc>https://smileguide.github.io/jp/docs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/docs/"
+                href="https://smileguide.github.io/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/docs/"
+                href="https://smileguide.github.io/en/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/docs/"
+                href="https://smileguide.github.io/jp/docs/"
                 />
   </url>
 </urlset>

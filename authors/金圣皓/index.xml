@@ -2,20 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>金圣皓 on 金圣皓的个人网站</title>
-    <link>/authors/%E9%87%91%E5%9C%A3%E7%9A%93/</link>
+    <link>https://smileguide.github.io/authors/%E9%87%91%E5%9C%A3%E7%9A%93/</link>
     <description>Recent content in 金圣皓 on 金圣皓的个人网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2023 &lt;a href=&#34;https://www.smileguide.github.io/&#34;&gt;Jin Shenghao&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Mon, 20 Feb 2023 17:35:02 +0800</lastBuildDate><atom:link href="/authors/%E9%87%91%E5%9C%A3%E7%9A%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 17:35:02 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/authors/%E9%87%91%E5%9C%A3%E7%9A%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>音乐解锁工具</title>
-      <link>/docs/resources/unlock_music/</link>
+      <link>https://smileguide.github.io/docs/resources/unlock_music/</link>
       <pubDate>Mon, 20 Feb 2023 17:35:02 +0800</pubDate>
       
-      <guid>/docs/resources/unlock_music/</guid>
-      <description>这是一个用于解锁主流数字音乐媒体的下载音乐的工具。特别支持QQ音乐“臻品母带”音质的音乐解锁。 入口 点击进入解锁工具 该工具使用特殊技术，可以离线使用。在</description>
+      <guid>https://smileguide.github.io/docs/resources/unlock_music/</guid>
+      <description>这是一个用于解锁主流数字音乐媒体的下载音乐的工具。特别支持QQ音乐“臻品母带”音质的音乐解锁。 入口 点击进入解锁工具 该工具使用特殊技术，可以离线使用。在第一次加载工具成功后</description>
+    </item>
+    
+    <item>
+      <title>电影《铃芽之旅》官方资源合集</title>
+      <link>https://smileguide.github.io/docs/suzume/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/suzume/</guid>
+      <description>描述： 本文档下存储了电影《铃芽之旅》官方资源合集，共8个部分。 重要提示： 本文档下的视频经过主流浏览器（Microsoft Edge，Google Chrome，Firefox</description>
     </item>
     
   </channel>

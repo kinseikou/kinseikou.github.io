@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>随笔 on 金圣皓的个人网站</title>
-    <link>/posts/</link>
+    <link>https://smileguide.github.io/posts/</link>
     <description>Recent content in 随笔 on 金圣皓的个人网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2023 &lt;a href=&#34;https://www.smileguide.github.io/&#34;&gt;Jin Shenghao&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Sun, 19 Feb 2023 09:06:11 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 09:06:11 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World🎉</title>
-      <link>/posts/hello-world/</link>
+      <link>https://smileguide.github.io/posts/hello-world/</link>
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
-      <guid>/posts/hello-world/</guid>
-      <description>我的第一个博客。 这是我在个人网站上发表的第一篇博客。 这个网站是怎么搭建的？ 我的个人网站是用GitHub的个人静态页面托管服务和静态页面构建工具“Hug</description>
+      <guid>https://smileguide.github.io/posts/hello-world/</guid>
+      <description>我的第一个博客。 这是我在个人网站上发表的第一篇博客。 这个网站是怎么搭建的？ 我的个人网站是用GitHub的个人静态页面托管服务和静态页面构建工具“Hugo”共同建造而成的。</description>
     </item>
     
   </channel>
