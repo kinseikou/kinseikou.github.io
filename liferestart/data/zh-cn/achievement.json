@@ -2,7 +2,7 @@
     "101": {
         "id": 101,
         "name": "既视感",
-        "description": "重开10次",
+        "description": "重生10次",
         "grade": 0,
         "condition": "TMS>9",
         "hide": 0,
@@ -11,7 +11,7 @@
     "102": {
         "id": 102,
         "name": "孟婆愁",
-        "description": "重开50次",
+        "description": "重生50次",
         "grade": 1,
         "condition": "TMS>49",
         "hide": 0,
@@ -20,7 +20,7 @@
     "103": {
         "id": 103,
         "name": "所有人都是我",
-        "description": "重开200次",
+        "description": "重生200次",
         "grade": 2,
         "condition": "TMS>199",
         "hide": 0,
@@ -29,7 +29,7 @@
     "104": {
         "id": 104,
         "name": "Rewrite",
-        "description": "重开500次",
+        "description": "重生500次",
         "grade": 3,
         "condition": "TMS>499",
         "hide": 0,
@@ -1126,7 +1126,7 @@
     },
     "226": {
         "id": 226,
-        "name": "又重开了",
+        "name": "又重生了",
         "description": "穿越到异世界",
         "grade": 2,
         "condition": "EVT?[30002]",
