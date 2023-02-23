@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://smileguide.github.io/en/authors/</loc>
-    <lastmod>2023-02-19T09:06:11+08:00</lastmod>
+    <lastmod>2023-02-22T14:58:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -18,6 +18,73 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://smileguide.github.io/en/authors/"
+                />
+  </url><url>
+    <loc>https://smileguide.github.io/en/</loc>
+    <lastmod>2023-02-22T14:58:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smileguide.github.io/en/"
+                />
+  </url><url>
+    <loc>https://smileguide.github.io/en/posts/</loc>
+    <lastmod>2023-02-22T14:58:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smileguide.github.io/en/posts/"
+                />
+  </url><url>
+    <loc>https://smileguide.github.io/en/posts/childhood_photography/</loc>
+    <lastmod>2023-02-22T14:58:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/posts/childhood_photography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/posts/childhood_photography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smileguide.github.io/en/posts/childhood_photography/"
+                />
+  </url><url>
+    <loc>https://smileguide.github.io/en/authors/%E9%87%91%E5%9C%A3%E7%9A%93/</loc>
+    <lastmod>2023-02-22T14:58:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/authors/%E9%87%91%E5%9C%A3%E7%9A%93/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smileguide.github.io/en/authors/%E9%87%91%E5%9C%A3%E7%9A%93/"
                 />
   </url><url>
     <loc>https://smileguide.github.io/en/posts/hello-world/</loc>
@@ -41,42 +108,6 @@
     <loc>https://smileguide.github.io/en/authors/jin-shenghao/</loc>
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
   </url><url>
-    <loc>https://smileguide.github.io/en/</loc>
-    <lastmod>2023-02-19T09:06:11+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://smileguide.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://smileguide.github.io/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smileguide.github.io/en/"
-                />
-  </url><url>
-    <loc>https://smileguide.github.io/en/posts/</loc>
-    <lastmod>2023-02-19T09:06:11+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://smileguide.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://smileguide.github.io/jp/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smileguide.github.io/en/posts/"
-                />
-  </url><url>
     <loc>https://smileguide.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -97,13 +128,13 @@
     <loc>https://smileguide.github.io/en/docs/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://smileguide.github.io/docs/"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/docs/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="jp"
-                href="https://smileguide.github.io/jp/docs/"
+                hreflang="zh"
+                href="https://smileguide.github.io/docs/"
                 />
     <xhtml:link
                 rel="alternate"

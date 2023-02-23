@@ -25,6 +25,16 @@
   </url><url>
     <loc>https://smileguide.github.io/docs/dlandjp/dltoponymy/</loc>
     <lastmod>2023-02-21T18:36:06+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/docs/dlandjp/dltoponymy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/docs/dlandjp/dltoponymy/"
+                />
   </url><url>
     <loc>https://smileguide.github.io/docs/tools/unlock_music/</loc>
     <lastmod>2023-02-20T17:35:02+08:00</lastmod>
@@ -34,12 +44,51 @@
   </url><url>
     <loc>https://smileguide.github.io/docs/dlandjp/dlfamouspeople/</loc>
     <lastmod>2023-02-21T18:36:06+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/docs/dlandjp/dlfamouspeople/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/docs/dlandjp/dlfamouspeople/"
+                />
+  </url><url>
+    <loc>https://smileguide.github.io/docs/tools/relation/</loc>
+    <lastmod>2023-02-20T17:35:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/docs/tools/relation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/docs/tools/relation/"
+                />
   </url><url>
     <loc>https://smileguide.github.io/docs/suzume/3/</loc>
     <lastmod>2023-02-21T18:36:06+08:00</lastmod>
   </url><url>
+    <loc>https://smileguide.github.io/docs/tools/cn_location/</loc>
+    <lastmod>2023-02-20T17:35:02+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/docs/tools/cn_location/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/docs/tools/cn_location/"
+                />
+  </url><url>
     <loc>https://smileguide.github.io/docs/suzume/4/</loc>
     <lastmod>2023-02-21T18:36:06+08:00</lastmod>
+  </url><url>
+    <loc>https://smileguide.github.io/docs/tools/life_restart/</loc>
+    <lastmod>2023-02-20T17:35:02+08:00</lastmod>
   </url><url>
     <loc>https://smileguide.github.io/docs/suzume/5/</loc>
     <lastmod>2023-02-21T18:36:06+08:00</lastmod>
@@ -55,6 +104,16 @@
   </url><url>
     <loc>https://smileguide.github.io/authors/%E9%87%91%E5%9C%A3%E7%9A%93/</loc>
     <lastmod>2023-02-22T14:58:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smileguide.github.io/en/authors/%E9%87%91%E5%9C%A3%E7%9A%93/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/authors/%E9%87%91%E5%9C%A3%E7%9A%93/"
+                />
   </url><url>
     <loc>https://smileguide.github.io/</loc>
     <lastmod>2023-02-22T14:58:34+08:00</lastmod>
@@ -76,6 +135,21 @@
   </url><url>
     <loc>https://smileguide.github.io/posts/childhood_photography/</loc>
     <lastmod>2023-02-22T14:58:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/posts/childhood_photography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smileguide.github.io/en/posts/childhood_photography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/posts/childhood_photography/"
+                />
   </url><url>
     <loc>https://smileguide.github.io/posts/</loc>
     <lastmod>2023-02-22T14:58:34+08:00</lastmod>
@@ -97,18 +171,28 @@
   </url><url>
     <loc>https://smileguide.github.io/docs/dlandjp/</loc>
     <lastmod>2023-02-21T18:36:06+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/docs/dlandjp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/docs/dlandjp/"
+                />
   </url><url>
     <loc>https://smileguide.github.io/docs/</loc>
     <lastmod>2023-02-21T18:36:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://smileguide.github.io/en/docs/"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/docs/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="jp"
-                href="https://smileguide.github.io/jp/docs/"
+                hreflang="en"
+                href="https://smileguide.github.io/en/docs/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -136,6 +220,16 @@
   </url><url>
     <loc>https://smileguide.github.io/docs/tools/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/docs/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/docs/tools/"
+                />
   </url><url>
     <loc>https://smileguide.github.io/docs/suzume/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>

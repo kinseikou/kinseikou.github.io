@@ -108,7 +108,7 @@
     },
     "headline": "生于大连的日本名人 | 大连与日本 | 金圣皓的个人网站","datePublished": "2023-02-21T18:36:06+08:00",
     "dateModified": "2023-02-21T18:36:06+08:00",
-    "wordCount":  606 ,
+    "wordCount":  607 ,
     "author": {
         "@type": "Person",
         "name": ["金圣皓"]
@@ -141,6 +141,10 @@
 
 
 <meta property="og:locale" content="zh" />
+
+
+
+<meta property="og:locale:alternate" content="jp" />
 
 
 
@@ -203,6 +207,19 @@
                     <span class="px-4 py-1 hover:text-eureka" name="Auto">自动</span>
                 </div>
             </div>
+            <div class="relative pt-4 ps-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="ps-1">简体中文</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://smileguide.github.io/docs/dlandjp/dlfamouspeople/">简体中文</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://smileguide.github.io/jp/docs/dlandjp/dlfamouspeople/">日本語</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -230,6 +247,7 @@
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
+        switchLanguage()
     });
 </script>
 </div>
@@ -381,7 +399,7 @@
 </tr>
 <tr>
 <td>内海英男</td>
-<td>政治家、原建设巨头</td>
+<td>政治家、原建设大臣</td>
 </tr>
 <tr>
 <td>柏木雄介</td>
@@ -429,7 +447,7 @@
 </tr>
 <tr>
 <td>⼯藤幸雄</td>
-<td>诗人、俄罗斯波兰文学者、多摩美术大学教</td>
+<td>诗人、俄罗斯波兰文学者、多摩美术大学教授</td>
 </tr>
 <tr>
 <td>渋谷昶子</td>
