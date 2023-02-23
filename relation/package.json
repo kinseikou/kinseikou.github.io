@@ -34,7 +34,7 @@
         "test": "node test/index.js",
         "build": "webpack && gulp mini && npm run test"
     },
-    "homepage": "https://passer-by.com/relationship/",
+    "homepage": "https://smileguide.github.io/relationship/",
     "directories": {
         "test": "test"
     }
