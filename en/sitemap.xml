@@ -24,13 +24,13 @@
     <lastmod>2023-02-21T18:36:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://smileguide.github.io/docs/dlandjp/dltoponymy/"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/docs/dlandjp/dltoponymy/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="jp"
-                href="https://smileguide.github.io/jp/docs/dlandjp/dltoponymy/"
+                hreflang="zh"
+                href="https://smileguide.github.io/docs/dlandjp/dltoponymy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -92,6 +92,9 @@
                 href="https://smileguide.github.io/en/docs/tools/cn_district/"
                 />
   </url><url>
+    <loc>https://smileguide.github.io/en/authors/jin-shenghao/</loc>
+    <lastmod>2023-02-22T14:58:34+08:00</lastmod>
+  </url><url>
     <loc>https://smileguide.github.io/en/</loc>
     <lastmod>2023-02-22T14:58:34+08:00</lastmod>
     <xhtml:link
@@ -146,19 +149,6 @@
                 href="https://smileguide.github.io/en/posts/childhood_photography/"
                 />
   </url><url>
-    <loc>https://smileguide.github.io/en/authors/%E9%87%91%E5%9C%A3%E7%9A%93/</loc>
-    <lastmod>2023-02-22T14:58:34+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://smileguide.github.io/authors/%E9%87%91%E5%9C%A3%E7%9A%93/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smileguide.github.io/en/authors/%E9%87%91%E5%9C%A3%E7%9A%93/"
-                />
-  </url><url>
     <loc>https://smileguide.github.io/en/docs/dlandjp/</loc>
     <lastmod>2023-02-21T18:36:06+08:00</lastmod>
     <xhtml:link
@@ -195,9 +185,6 @@
                 href="https://smileguide.github.io/en/docs/"
                 />
   </url><url>
-    <loc>https://smileguide.github.io/en/authors/jin-shenghao/</loc>
-    <lastmod>2023-02-21T18:36:06+08:00</lastmod>
-  </url><url>
     <loc>https://smileguide.github.io/en/posts/hello-world/</loc>
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
     <xhtml:link
@@ -220,18 +207,31 @@
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="jp"
-                href="https://smileguide.github.io/jp/docs/tools/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="https://smileguide.github.io/docs/tools/"
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="jp"
+                href="https://smileguide.github.io/jp/docs/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://smileguide.github.io/en/docs/tools/"
+                />
+  </url><url>
+    <loc>https://smileguide.github.io/en/authors/%E9%87%91%E5%9C%A3%E7%9A%93/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://smileguide.github.io/authors/%E9%87%91%E5%9C%A3%E7%9A%93/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://smileguide.github.io/en/authors/%E9%87%91%E5%9C%A3%E7%9A%93/"
                 />
   </url><url>
     <loc>https://smileguide.github.io/en/categories/</loc>
