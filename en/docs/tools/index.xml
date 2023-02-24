@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>实用工具 on Jin Shenghao&#39;s Website</title>
+    <link>https://smileguide.github.io/en/docs/tools/</link>
+    <description>Recent content in 实用工具 on Jin Shenghao&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2023 &lt;a href=&#34;https://www.smileguide.github.io/&#34;&gt;Jin Shenghao&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://smileguide.github.io/en/docs/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chinese Kinship Calculator</title>
+      <link>https://smileguide.github.io/en/docs/tools/relation/</link>
+      <pubDate>Mon, 20 Feb 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/tools/relation/</guid>
+      <description>This is a tool that can flexibly calculate the kinship between Chinese relatives, very practical. 入口 Click here to enter the Chinese Kinship Calculator Tool URL： (Copy) If you encounter problems in the use process, please ask questions in the comment area!</description>
+    </item>
+    
+    <item>
+      <title>China Administrative Division Data Query Tool</title>
+      <link>https://smileguide.github.io/en/docs/tools/cn_district/</link>
+      <pubDate>Mon, 20 Feb 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/tools/cn_district/</guid>
+      <description>This is a tool used to query the relevant content of China&amp;rsquo;s administrative divisions. In addition, the ID card number resolution tool is built-in.
+Entrance Click to enter the China Administrative Division Data Query Tool
+Tool URL： (Copy)
+If you encounter problems in the use process, please ask questions in the comment area!</description>
+    </item>
+    
+  </channel>
+</rss>

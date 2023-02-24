@@ -299,8 +299,8 @@
     
     <li class="py-2">
         <div class="">
-            <a class=" hover:text-eureka"
-                href="https://smileguide.github.io/docs/tools/cn_district/">中国行政区划数据查询工具</a>
+            <a class=" text-eureka  hover:text-eureka"
+                href="https://smileguide.github.io/docs/tools/life_restart/">人生重来模拟器</a>
         </div>
         
     </li>
@@ -310,8 +310,8 @@
     
     <li class="py-2">
         <div class="">
-            <a class=" text-eureka  hover:text-eureka"
-                href="https://smileguide.github.io/docs/tools/life_restart/">人生重来模拟器</a>
+            <a class=" hover:text-eureka"
+                href="https://smileguide.github.io/docs/tools/cn_district/">中国行政区划数据查询工具</a>
         </div>
         
     </li>
@@ -364,11 +364,12 @@
 		text-decoration:underline;
 		text-decoration-style:dotted;
 		float:right;
+		color:#b5b5b5;
 	}
 </style>
 <p><a href="/liferestart"> <strong>点击进入人生重来模拟器</strong></a><br/><br/></p>
 <h3 id="工具网址br">工具网址：<br/></h3>
-<p><button type="button" id="cpy"><input type="text" value="smileguide.github.io/liferestart" style="width: 234px;" readonly></input><div id="cpyd" class="DDot">(点击复制)</div></button></p>
+<p><button type="button" id="cpy"><input type="text" value="smileguide.github.io/liferestart" style="width: 234px;color:black;" readonly></input><div id="cpyd" class="DDot">(点击复制)</div></button></p>
 <script src="https://cdn.staticfile.org/clipboard.js/2.0.4/clipboard.min.js"></script>
 <script>
 new ClipboardJS('#cpy', {
@@ -380,7 +381,7 @@ new ClipboardJS('#cpy', {
    document.getElementById("cpyd").innerHTML="(复制成功！)";
    document.getElementById("cpyd").style="color:#90EE90;float:right"
    e.clearSelection();
-   setTimeout(function(){document.getElementById("cpyd").innerHTML="(点击复制)";   document.getElementById("cpyd").style="color:black;float:right";},1000);
+   setTimeout(function(){document.getElementById("cpyd").innerHTML="(点击复制)";   document.getElementById("cpyd").style="color:#b5b5b5;float:right";},1000);
 }).on('error', function(e) {
 	// clearInterval(function);
     document.getElementById("cpyd").innerHTML="(复制失败，点击重试)";
@@ -434,10 +435,13 @@ new ClipboardJS('#cpy', {
         <span class="text-primary-text block font-bold"
           >上一页</span
         >
-        <a href="https://smileguide.github.io/docs/tools/cn_district/" class="block">中国行政区划数据查询工具</a>
+        <a href="https://smileguide.github.io/docs/tools/relation/" class="block">亲戚计算器</a>
       
     </div>
     <div class="mt-4 md:mt-0 md:text-right">
+      
+        <span class="text-primary-text block font-bold">下一页</span>
+        <a href="https://smileguide.github.io/docs/tools/cn_district/" class="block">中国行政区划数据查询工具</a>
       
     </div>
   </div>

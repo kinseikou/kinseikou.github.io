@@ -18,5 +18,14 @@
       <description>照片信息 这张照片摄于2011年的大连市滨海公路附近。拍摄时间是UTC+8 5月1日14:15。 关于这张照片的幻灯片🐶 在线预览 由于预览很模糊且丧失了音效、字体，建议下载后观看</description>
     </item>
     
+    <item>
+      <title>实用工具</title>
+      <link>https://smileguide.github.io/en/docs/tools/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/tools/</guid>
+      <description>这里存放着一些实用的且难以找到替代品的工具，欢迎大家使用。 第一个工具：音乐解锁 &amp;gt;</description>
+    </item>
+    
   </channel>
 </rss>
