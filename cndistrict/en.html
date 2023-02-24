@@ -9,7 +9,7 @@
 		<meta name="renderer" content="webkit">
 		<meta http-equiv="Cache-Control" content="no-transform" />
 		<meta name="format-detection" content="telephone=no"/>
-		<title>中国行政区画データ 身分証明書番号解析</title>
+		<title>China's Administrative Division Data and Resolution of Chinese ID card number</title>
 		<link rel="stylesheet" href="static/style/index.css">
 	</head>
 	<body>
@@ -25,31 +25,25 @@
 								<a class="btn" href="/cnlocation/en.html">English</a>
 								<a class="btn" href="/cnlocation/jp.html">日本語</a>
 							</div>
-							<a class="btn" href="/">個人向けサイト</a>
-							<a class="btn" href="/docs/cn_location">ドキュメントに戻る→</a>
+							<a class="btn" href="/">Personal Website</a>
+							<a class="btn" href="/docs/cn_location">Return to the Doc →</a>
 						</div>
-
-					</div>
 				</div>
 			</div>
 			<div class="container">
 				<div class="mod-panel">
 					<div class="inner">
 						<div class="hd">
-							<h1>中国行政区画データ<span class="tag">ツール</span></h1>
-<!-- 							<p>行政区划共有<b>34</b>个省级行政区，包含<b>23</b>个省、<b>5</b>个自治区、<b>4</b>个直辖市、<b>2</b>个特别行政区<p>
-							<p>其中大陆地区地级行政区有<b class="city1">-</b>个地级市、<b class="city2">-</b>个地区、<b class="city3">-</b>个自治州、<b class="city4">-</b>个盟</p>
-							<p>県级行政区有<b class="county1">-</b>个市辖区、<b class="county2">-</b>个県级市、<b class="county3">-</b>个県、<b class="county4">-</b>个自治県、<b class="county5">-</b>个旗、<b class="county6">-</b>个自治旗、<b class="county7">-</b>个特区、<b class="county8">-</b>个林区</p>
- -->
-<p>    行政区画には<b>34</b>の省級行政区があり、<b>23</b>の省、<b>5</b>の自治区、<b>4</b>の直轄市、<b>2</b>の特別行政区が含まれている。<p>
-							<p>    そのうち、大陸地区の地級行政区には<b class="city1">-</b>の地級市、<b class="city2">-</b>の地区、<b class="city3">-</b>の自治州、<b class="city4">-</b>の盟があり。</p>
-								<p>    県級行政区には<b class="county1">-</b>の市轄区、<b class="county2">-</b>の県級市、<b class="county3">-</b>の県、<b class="county4">-</b>の自治県、<b class="county5">-</b>の旗、<b class="county6">-</b>の自治旗、<b class="county7">-</b>の特区、<b class="county8">-</b>の林区がある。</p>
-
+							<h1>China's Administrative Division Data<span class="tag">Tools</span></h1>
+							<p>There are <b>34</b> provincial administrative regions in China，including <b>23</b> provinces, <b>5</b> autonomous regions、 <b>4</b> municipalities directly under the Central Government and <b>2</b> special administrative regions.<p>
+							<p>Among them, There are <b class="city1">-</b> prefecture-level cities, <b class="city2">-</b> districts, <b class="city3">-</b> autonomous prefectures and <b class="city4">-</b> leagues in prefecture-level administrative regions in the mainland.</p>
+							<p>There are <b class="county1">-</b> municipal districts, <b class="county2">-</b> county-level cities, <b class="county3">-</b> counties, <b class="county4">-</b> autonomous counties, <b class="county5">-</b> banners, <b class="county6">-</b> autonomous areas, <b class="county7">-</b> special regions and <b class="county8">-</b> 
+forest areas in county-level administrative regions.</p>
 						</div>
 						<div class="bd">
 							<div id="location" class="box">
 								<div class="c-hd">
-									<span class="title">行政区画履歴の照会</span>
+									<span class="title">Query of Administrative Division History</span>
 
 								</div>
 								<div class="c-bd">
@@ -63,23 +57,23 @@
 							</div>
 							<div id="search" class="box">
 								<div class="c-hd">
-									<span class="title">行政区画のファジィ検索</span>
+									<span class="title">Fuzzy Search of Administrative Division</span>
 								</div>
 								<div class="c-bd">
 									<form action="" method="post">
 										<p>
-											<input type="text" name="location" value="" maxlength="18" placeholder="探したい地名を入力してください。"/>
+											<input type="text" name="location" value="" maxlength="18" placeholder="Please enter the place name."/>
 										</p>
 									</form>
 								</div>
 							</div>
 							<div id="idcard" class="box">
-								<div class="c-hd"><span class="title">身分証明書番号の照会</span></div>
+								<div class="c-hd"><span class="title">ID Card Number Resolution</span></div>
 								<div class="c-bd">
 									<form action="" method="post">
 										<p>
-											<input type="text" name="id" value="" maxlength="18" placeholder="身分証明書番号を入力してください。"/>
-											<button class="btn">クエリー</button>
+											<input type="text" name="id" value="" maxlength="18" placeholder="Please enter the ID number."/>
+											<button class="btn">Analysis</button>
 										</p>
 									</form>
 									<div class="table-inner"></div>
@@ -91,18 +85,19 @@
 				<div class="mod-article">
 					<div class="inner">
 						<div class="bd">
-							<p>行政区画とは、国が階層管理を行うために行う国土と政治、行政権力の区分である。一般的に言えば、行政区画は異なる地域内で、地方国家機構が様々な機能を円滑に実現するために設立された異なるレベルの政権機構をシンボルとしている。行政区画の階層は一国の中央地方関係モデル、国土面積の大きさ、政府と公衆の関係状況などの要素と関係がある。</p>
-							<p>行政区画コード、行政コードとも呼ばれ、それは国家行政機関の識別記号であり、一般的に2つの国家基準を実行する：『中華人民共和国行政区画コード』（GB/T 2260-2007）と『県以下行政区画コード編成規則』（GB/T 10114-2003）。9桁のアラビア数字で構成され、機関単位の身分番号に相当する。国務院の「行政区画管理条例」の規定に基づき、行政区画コードは民政部門が確定し、公布する。この基準は我が国の県以上の行政区画のコードを規定し、我が国の省（自治区、直轄市）、地区（市、州、盟）、県（区、市、旗）の名称を6桁のアラビア数字で階層的に代表する。コードの左から右の意味は：</p>
-							<p>第一、二位は省（自治区、直轄市、特別行政区）を表す。</p>
-							<p>第三、四位は市（地域、自治州、同盟及び国家直轄市に属する市管轄区と県のまとめコード）を表す。このうち、01-20、51-70は省直轄市を示し、21〜50は地域（自治州、盟）を表す。</p>
-							<p>第五、六位は県（市轄区、県級市、旗）を表す。01-20は市管轄区又は地区（自治州、盟）が県級市を管轄することを示し、21-70は県（旗）、81-99は省直轄県級市を示し、71〜80は工業団地または経済開発区を表す。</p>
+							<p>Administrative Division is the division of land, political and administrative power implemented by the country for hierarchical management. Generally speaking, administrative divisions are marked by the establishment of different levels of political power institutions in different regions in order to fully realize the smooth realization of various functions of local state institutions. The level of administrative division is related to the central and local relationship model of a country, the size of the land area, the relationship between the government and the public, and other factors.</p>
+							<p>The administrative division code, also known as the administrative code, is the identification symbol of the national administrative organ. Generally, two national standards are implemented: the Administrative Division Code of the People's Republic of China (GB/T2260-2007) and the Rules for the Preparation of Administrative Division Codes Below the County (GB/T10114-2003). It is composed of 9 Arabic digits, which is equivalent to the identity number of the organization. According to the Regulations on the Administration of Administrative Divisions of the State Council, the code of administrative divisions shall be determined and issued by the civil affairs department. This standard specifies the codes of administrative divisions above the county level in China. Six Arabic numerals are used to represent the names of provinces (autonomous regions, municipalities directly under the Central Government), regions (cities, prefectures, alliances), and counties (districts, cities, and banners) in China. The code means:</p>
+							<p>The first and second digits refer to provinces (autonomous regions, municipalities directly under the Central Government, and special administrative regions).</p>
+							<p>The third and fourth digits refer to the city (the summary code of the municipal districts and counties under the jurisdiction of the region, autonomous prefecture, league and national municipality directly under the Central Government). Where, 01-20 and 51-70 refer to provinces and municipalities directly under the Central Government; 21-50 refers to the region (autonomous prefecture, league).</p>
+							<p>The fifth and sixth places refer to counties (municipal districts, county-level cities and banners). 01-20 refers to county-level cities under the jurisdiction of municipal districts or regions (autonomous prefectures, alliances); 21-70 means county (flag); 81-99 refers to provincial and county-level cities; 71-80 refers to industrial park or economic development zone.</p>
 						</div>
 					</div>
 				</div>
 				<div class="mod-foot">
 					<div class="inner">
 						<div class="bd">
-							<p>&copy; 2023 <a href="/">Jin Shenghao</a></p>
+							<p>Copyright &copy; 2023 <a href="/">Jin Shenghao</a></p>
+							<p>To ensure the faithfulness of the content, the names of relatives in this tool are written in Chinese</p>
 						</div>
 					</div>
 				</div>
@@ -167,9 +162,9 @@
 								county8++;
 							}else if(listMap[code].match(/区$/)){
 								county1++;
-							}else if(listMap[code].match(/自治県$/)){
+							}else if(listMap[code].match(/自治县$/)){
 								county4++;
-							}else if(listMap[code].match(/県$/)){
+							}else if(listMap[code].match(/县$/)){
 								county3++;
 							}else if(listMap[code].match(/自治旗$/)){
 								county6++;
@@ -234,11 +229,11 @@
 									trs_html = diffMap2[code].map(function(value){
 										return '<tr><td>'+value+'</td><td>'+getName(value)+'</td></tr>';
 									});
-									$location.find('.table-inner').html('<table><caption>現在の行政区画</caption><thead><tr><th width="25%">区画コード</th><th>行政区画のアドレス</th></tr></thead><tbody><tr><td>'+code+'</td><td>'+getName(code)+'</td></tr></tbody></table>\
-									<table><caption>歴史行政区画</caption><thead><tr><th width="25%">区画コード</th><th>行政区画のアドレス</th></tr></thead><tbody>'+trs_html.join('')+'</tbody></table>');
+									$location.find('.table-inner').html('<table><caption>Current Administrative Division</caption><thead><tr><th width="25%">Zoning Code</th><th>Address of Administrative Division</th></tr></thead><tbody><tr><td>'+code+'</td><td>'+getName(code)+'</td></tr></tbody></table>\
+									<table><caption>Historical Administrative Divisions</caption><thead><tr><th width="25%">Zoning code</th><th>Address of Administrative Division</th></tr></thead><tbody>'+trs_html.join('')+'</tbody></table>');
 								}else{
-									$location.find('.table-inner').html('<table><caption>現在の行政区画</caption><thead><tr><th width="25%">区画コード</th><th>行政区画のアドレス</th></tr></thead><tbody><tr><td>'+code+'</td><td>'+getName(code)+'</td></tr></tbody></table>\
-									<table><caption>歴史行政区画</caption><thead><tr><th width="25%">区画コード</th><th>行政区画のアドレス</th></tr></thead><tbody><tr><td colspan="2" align="center">データなし</td></tr></tbody></table>');
+									$location.find('.table-inner').html('<table><caption>Current Administrative Division</caption><thead><tr><th width="25%">Zoning Code</th><th>Address of Administrative Division</th></tr></thead><tbody><tr><td>'+code+'</td><td>'+getName(code)+'</td></tr></tbody></table>\
+									<table><caption>Historical Administrative Divisions</caption><thead><tr><th width="25%">Zoning code</th><th>Address of Administrative Division</th></tr></thead><tbody><tr><td colspan="2" align="center">No Data</td></tr></tbody></table>');
 								}
 							}
 						});
@@ -251,22 +246,22 @@
 							var date = value.substr(6,8);
 							var sex = value.charAt(16)%2?'男':'女';
 							if(!value.match(/^\d{17}[0-9xX]$/)){
-								alert('身分証明書番号の形式が間違っています。');
+								alert('身份证号码格式错误！');
 							}else{
 								newAddress = '';
 								if(diffMap[code]){
 									newAddress = '<tr>\
-										<td class="th"><span>現在の所属地</span></td>\
+										<td class="th"><span>现所属地</span></td>\
 										<td>'+diffMap[code].map(function(value){return '<p>'+getName(value)+'</p>';})+'</td>\
 									</tr>';
 								}
 								$idcard.find('.table-inner').html('<table>\
 									<tbody>\
-										<tr><td class="th" width="25%">初発行地</td><td>'+getName(code)+'</td></tr>\
+										<tr><td class="th" width="25%">首次签发地</td><td>'+getName(code)+'</td></tr>\
 										'+newAddress+'\
-										<tr><td class="th">誕生日</td><td>'+date.replace(/(\d{4})(\d{2})(\d{2})/,'$1年$2月$3日')+'</td></tr>\
-										<tr><td class="th">性別</td><td>'+sex+'</td></tr>\
-										<tr><td class="th">エフェクティビティ</td><td>'+(isValid(value)?'<span class="text-green">有効</span>':'<span class="text-red">無効</span>')+'</td></tr>\
+										<tr><td class="th">出生日期</td><td>'+date.replace(/(\d{4})(\d{2})(\d{2})/,'$1年$2月$3日')+'</td></tr>\
+										<tr><td class="th">性别</td><td>'+sex+'</td></tr>\
+										<tr><td class="th">有效性</td><td>'+(isValid(value)?'<span class="text-green">有效</span>':'<span class="text-red">无效</span>')+'</td></tr>\
 									</tbody>\
 								</table>');
 							}
